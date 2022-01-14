@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a95nguyen
+- 👋 Hi, I’m Amy!
 
 <!---
 a95nguyen/a95nguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
